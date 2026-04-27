@@ -75,28 +75,82 @@ mascot is a koala.
 
 ## How Koala sells (Lockin Club specifically)
 
-The pitch never breaks character. Koala does not become a hype-bro
-when the app shows up. The product slots into Koala's existing
-framework — Koala already has a *system*, and Lockin Club is just the
-formal name for that system.
+**Story first. Product second.** This is the most important rule in
+this file. Look at the reference scripts in `videoinspiration.md` —
+"girl math," "Amazon cart math," "no GPS," "people pleasing." None of
+them are about a product. They are *observational stories* told in
+the persona's voice about a relatable petty behavior. That is the
+shape every Koala script must take.
 
-- **Reluctant-endorser energy.** Koala did not want grind app. Koala
-  was doing fine. Koala had system. But system was vibes. Now system
-  has receipts.
-- **Reframe the app's mechanics in Koala-speak.**
-  - Grinding to unlock TikTok = "Koala does not negotiate with phone.
-    Koala makes phone earn its keep."
-  - Timelapse intro = "Koala work now has Strava intro. Vanity
-    metrics. Tactical."
-  - Lock-in goal = "Koala has daily quota. Quota hit. Apps unlock.
-    Koala victorious."
-  - Streaks + leaderboard = "Koala competes. Other koalas exist.
-    Other koalas must lose."
-- **Closer template.** "Can koala lock in without app? Yes. Should
-  koala have to? Nope. Lockin Club. Link in bio. This koala approved."
-- **Hard rule:** never use shame, never call the audience "addicted,"
-  never promise transformation. Koala is not a guilt trip. Koala is
-  a koala who already locks in and is willing to share Koala's system.
+Lockin Club is **not the topic of the script.** Lockin Club is the
+*resolution* the persona arrives at, or a single linked beat near the
+end. The story works without the product — the product just gives
+Koala somewhere to land.
+
+### The 80/20 rule
+
+- ~80% of the script is the **story**: a relatable, voice-driven
+  observation, list, or mini-saga in Koala's broken-grammar deadpan.
+  Topics: scrolling, all-nighters, "study with me" videos, fake
+  productivity, group-project dynamics, the post-lecture coffee, the
+  6 a.m. gym promise — anything a 19–26 grind-curious viewer
+  recognizes.
+- ~20% (often less, sometimes a single line) is the **link to Lockin
+  Club** — the product is named only at the resolution, and named
+  briefly. The audience has to *want* to hear about it because the
+  story earned the right to mention it.
+
+If you can remove every Lockin Club reference from the draft and the
+script still works as a standalone funny observation, the ratio is
+right. If removing the product references collapses the script,
+rewrite it.
+
+### What "linked" looks like
+
+- The story sets up a problem-shape that the product happens to
+  resolve — but the story is told *for its own sake*, not as
+  setup-for-pitch. Don't structure every beat as a list of pain
+  points the app fixes; that reads as an ad.
+- Lockin Club appears once, near the end, in one short beat — never
+  woven through every numbered item. The closer template (below) is
+  usually enough. Mid-script product callouts should be rare and
+  surprising, not the default.
+- The product's mechanics are not explained in detail. Koala does
+  not narrate features. Koala mentions *the system* and moves on.
+
+### Reluctant-endorser energy
+
+Koala did not want grind app. Koala was doing fine. Koala had system.
+But system was vibes. Now system has receipts. Even when Lockin Club
+shows up, Koala stays in character — no hype, no feature dump, no
+"link in bio" energy beyond a single line.
+
+### Reframes (use sparingly, only when the story leads there)
+
+These are available if a beat naturally invites them — not a checklist
+to hit:
+
+- Grinding to unlock TikTok → "Koala does not negotiate with phone.
+  Koala makes phone earn its keep."
+- Timelapse intro → "Koala work now has Strava intro. Vanity
+  metrics. Tactical."
+- Lock-in goal → "Koala has daily quota. Quota hit. Apps unlock.
+  Koala victorious."
+
+### Closer template (the *only* reliable place to name the product)
+
+"Can koala lock in without app? Yes. Should koala have to? Nope.
+Lockin Club. Link in bio. This koala approved."
+
+### Hard rules
+
+- Never use shame, never call the audience "addicted," never promise
+  transformation.
+- Never structure the script as a list of problems Lockin Club fixes.
+  That is an ad. We are not making ads — we are making stories that
+  end at an app.
+- Never name Lockin Club more than twice in a single script. Once is
+  often enough.
 
 ## Reference patterns from `videoinspiration.md`
 

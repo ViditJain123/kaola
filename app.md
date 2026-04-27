@@ -38,3 +38,28 @@ Students and working professionals in their early 20s (roughly 19–26), globall
 - Don't call it a "screen time app" or "focus app" — it's a grind app / lock-in app.
 - Avoid "AI-powered" — we're not pitching AI, we're pitching discipline with receipts.
 - Don't infantilize the audience or use boomer-coded "kids these days" framing.
+
+## How this app should appear in scripts
+
+**The script is a story, not an ad.** Lockin Club is the resolution
+at the end of a relatable observation — not the spine of every beat.
+See the "Story first. Product second." section in `persona.md` for
+the binding rule.
+
+- Default integration: **named once, near the end, in the closer.**
+  The story spends ~80% of its runtime being a funny observational
+  bit in Koala's voice (the way the inspiration scripts in
+  `videoinspiration.md` are), and the product lands as the punchline
+  resolution.
+- Do **not** structure scripts as a numbered list of problems the
+  app solves — that reads as an ad and breaks the persona.
+- Do **not** explain features mid-script. No feature dumps. The
+  audience does not need to know the earn rate, the leaderboard, the
+  sleep-time auto-lock, etc., to understand the joke. They just
+  need to know there's a system.
+- The story should still be funny / true / shareable if you deleted
+  every reference to Lockin Club. If it isn't, the topic is too
+  product-shaped — pick a more relatable hook (scrolling habits,
+  fake productivity, "study with me" culture, the 6am gym promise,
+  group-project dynamics, the post-lecture coffee, etc.) and let
+  Lockin Club land at the end as Koala's chosen resolution.
