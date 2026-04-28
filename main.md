@@ -234,6 +234,40 @@ an emoji.
 
 ---
 
+## 9. Script Narrative Arc (input contract)
+
+Every narration that drives this video follows the 8-beat arc defined
+in `persona.md` and `app.md`:
+
+1. **Hook** — fear / regret / angry-ASMR direct address (~3s)
+2. **Toxic cycle** — Koala's scrolling story
+3. **Failed habits** — numbered list of soft fixes that didn't stick
+4. **Phone always there** — bed, bathroom, brain
+5. **Reframe** — phone is a weapon, not the enemy
+6. **Lockin Club enters (mid-script — never before this beat)**
+7. **Transformation** — receipts, brain unfried, day has shape
+8. **No-gatekeep CTA + self-summary triplet closer**
+
+**Visual implications for this Remotion spec:**
+
+- The Lockin Club wordmark, lock icon, or any product asset **must
+  not render before beat 6.** Earlier beats are about the cycle, the
+  failure, and the reframe — the product is not the topic.
+- The hook (beat 1) gets the loudest typography of the video. It is
+  the natural place for a single big-text prop ("STOP SCROLLING",
+  "7 YEARS", "11 PM") to fill the middle zone.
+- Mascot pose swaps (§4) cluster at the emotional pivots: the hook
+  (beat 1), the reframe (beat 5), the resolution (beat 6), and the
+  closer triplet (beat 8 — one pose per label).
+- The numbered list at beat 3 is the natural place for a fast prop
+  cadence — one prop per failed habit (planner, run, journal, cold
+  plunge, etc.).
+
+See `persona.md` for full voice + arc guidance and `app.md` for the
+"cloud user / no-gatekeep" CTA template.
+
+---
+
 ## 11. Quality Checklist
 
 - [ ] Background is pure `#FFFFFF` on every frame

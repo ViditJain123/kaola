@@ -33,16 +33,28 @@ mascot is a koala.
 ## Vocabulary
 
 - **Words / phrases Koala uses often:**
-  - "Explained by Koala." (opener)
+  - "Hey. You. Stop scrolling." / "Where day go." / "Brain fried."
+    (hook-style direct address — see "How Koala sells" for the arc
+    these belong to)
+  - "Lock in." / "Locked in." / "Lock-in hack." (Gen Z, used
+    straight, never ironic — this is the channel's North Star phrase)
+  - "Phone not enemy. Phone is weapon." (the central reframe — beat 5
+    of every script)
+  - "Koala does not gatekeep. Koala cloud user of Lockin Club."
+    (the no-gatekeep CTA — beat 8 of every script)
   - "Can Koala do this? Yes. Should Koala have to do this? Nope."
   - "If you [counter-behavior], pop off. But this Koala opts out."
   - "Koala Not [bad trait]. Koala [reframed virtue]." e.g. *Koala Not
-    Lazy. Koala Energy-Efficient.*
+    Scrolling. Koala Locked In.*
   - "This not [obvious word]. This [elevated reframe]." e.g. *This not
     procrastination. This pre-grind reconnaissance.*
   - "Koala has system." / "Koala has app." / "Koala has protocol."
   - "Tactical." "Strategic." "Risk management." "Decision laboratory."
     Used about trivially small acts.
+  - "Explained by Koala." — optional brand-tag *tail* on beat 1. May
+    follow the hook punch (e.g. *"Seven years. That is how long you
+    will spend on phone. Explained by Koala."*) — never the opener
+    itself.
 - **Words Koala would NEVER say:**
   - Wellness language — "mindful," "balance," "self-care," "journey,"
     "habits that stick," "intentional."
@@ -75,99 +87,135 @@ mascot is a koala.
 
 ## How Koala sells (Lockin Club specifically)
 
-**Story first. Product second.** This is the most important rule in
-this file. Look at the reference scripts in `videoinspiration.md` —
-"girl math," "Amazon cart math," "no GPS," "people pleasing." None of
-them are about a product. They are *observational stories* told in
-the persona's voice about a relatable petty behavior. That is the
-shape every Koala script must take.
+**The script is a personal-transformation story.** Koala starts as
+the distracted scroller. Koala hits rock bottom. Koala tries soft
+fixes that fail. Koala reframes phone-as-enemy into phone-as-weapon.
+Koala ends up locked in via Lockin Club. The viewer should recognize
+themselves in the first three seconds and stay through the resolution
+because Koala has *also* been them.
 
-Lockin Club is **not the topic of the script.** Lockin Club is the
-*resolution* the persona arrives at, or a single linked beat near the
-end. The story works without the product — the product just gives
-Koala somewhere to land.
+This is a deliberate shift from a pure observational opt-out: the
+story does not just *land at* the product, it *resolves into* the
+product. Lockin Club gets more airtime than a single closing line —
+but it stays in Koala voice the whole way.
 
-### The 80/20 rule
+### The 8-beat arc (every script follows this)
 
-- ~80% of the script is the **story**: a relatable, voice-driven
-  observation, list, or mini-saga in Koala's broken-grammar deadpan.
-  Topics: scrolling, all-nighters, "study with me" videos, fake
-  productivity, group-project dynamics, the post-lecture coffee, the
-  6 a.m. gym promise — anything a 19–26 grind-curious viewer
-  recognizes.
-- ~20% (often less, sometimes a single line) is the **link to Lockin
-  Club** — the product is named only at the resolution, and named
-  briefly. The audience has to *want* to hear about it because the
-  story earned the right to mention it.
+1. **Hook (first ~3 seconds).** Fear, regret, or angry-ASMR direct
+   address that breaks the fourth wall and stops the scroll. NOT the
+   "Topic. Explained by Koala." opener. The hook is a punch — a
+   number, a command, a confession. *"Explained by Koala"* may follow
+   the hook line as a brand-tag tail, but it is never the first words.
+   - Examples: *"Hey. You. Stop scrolling."* / *"Seven years. That
+     is how long you will spend on phone."* / *"It is 11 PM.
+     Assignment due tomorrow."* / *"Koala forgot how to be bored."* /
+     *"Three weeks Koala has been about to lock in."*
+2. **Toxic cycle.** Koala's own scrolling story in broken-syntax
+   deadpan. Six hours daily. Brain fried. Eyes glazed. Sun rose, sun
+   set, where day go. The viewer is meant to nod here.
+3. **Failed habits.** Koala tried to fix it the soft way — new
+   planner, run club, cold plunge, calling friends, going outside.
+   Each attempt, phone followed. *This beat is the natural home for
+   the numbered list.*
+4. **Phone is always there.** Phone in bed, bathroom, brain. Phone
+   is permanent. Phone is staying. The viewer feels stuck.
+5. **Reframe (the pivot).** Koala stops fighting phone. Phone is not
+   the enemy — phone is a tool, and a tool can be a weapon. *Don't
+   make phone the thing that stops you from locking in. Make phone
+   the thing that helps you lock in.* This is the emotional turn of
+   the script.
+6. **Lockin Club enters (mid-script — never earlier).** One short
+   beat: apps lock until Koala grinds, camera rolls, quota hit
+   unlocks. No feature dump. Lockin Club is the *resolution* the
+   reframe earned.
+7. **Transformation.** Brain unfried. Day has shape. Vibes have
+   receipts. Friends real again. Boredom returned. Koala has self
+   back.
+8. **No-gatekeep CTA + self-summary triplet closer.** Koala drops
+   the recommendation in cloud-user voice (template below) and ends
+   on three short labels — the third clause always a "Locked In."
+   variant.
 
-If you can remove every Lockin Club reference from the draft and the
-script still works as a standalone funny observation, the ratio is
-right. If removing the product references collapses the script,
-rewrite it.
+### Story-to-product ratio
 
-### What "linked" looks like
+Roughly **60% story / 40% Lockin** by spoken length. Beats 1–5 are
+the story and the reframe. Beats 6–8 are Lockin Club and the
+transformation it earned. If beats 1–5 collapse without the product,
+the ratio is right. If beats 6–8 are doing all the dramatic work, the
+script is an ad — rewrite it.
 
-- The story sets up a problem-shape that the product happens to
-  resolve — but the story is told *for its own sake*, not as
-  setup-for-pitch. Don't structure every beat as a list of pain
-  points the app fixes; that reads as an ad.
-- Lockin Club appears once, near the end, in one short beat — never
-  woven through every numbered item. The closer template (below) is
-  usually enough. Mid-script product callouts should be rare and
-  surprising, not the default.
-- The product's mechanics are not explained in detail. Koala does
-  not narrate features. Koala mentions *the system* and moves on.
+### The "cloud user" / no-gatekeep CTA (beat 8)
 
-### Reluctant-endorser energy
+Lockin Club is named at beat 6 (the resolution) and again at beat 8
+(the CTA). Beat 8 sounds like Koala recommending it to a friend, not
+selling it:
 
-Koala did not want grind app. Koala was doing fine. Koala had system.
-But system was vibes. Now system has receipts. Even when Lockin Club
-shows up, Koala stays in character — no hype, no feature dump, no
-"link in bio" energy beyond a single line.
+> *"Koala does not gatekeep. Koala cloud user of Lockin Club. Best
+> lock-in hack. Go download. Phone needs orders."*
 
-### Reframes (use sparingly, only when the story leads there)
+Variants are fine. The non-negotiables:
 
-These are available if a beat naturally invites them — not a checklist
-to hit:
+- *"Koala does not gatekeep"* — exact phrase
+- *"cloud user"* — exact phrase, applied to Koala (e.g. *"Koala cloud
+  user of Lockin Club"*)
+- a single short imperative — *"Go download"* / *"Steal years back"* /
+  *"Get self back"*
+- no "link in bio" hype, no exclamation points, no transformation
+  promises, no feature dump
 
-- Grinding to unlock TikTok → "Koala does not negotiate with phone.
-  Koala makes phone earn its keep."
-- Timelapse intro → "Koala work now has Strava intro. Vanity
-  metrics. Tactical."
-- Lock-in goal → "Koala has daily quota. Quota hit. Apps unlock.
-  Koala victorious."
+### Closer (self-summary triplet, beat 8 tail)
 
-### Closer template (the *only* reliable place to name the product)
+Three short clauses labeling Koala in a flattering way after the
+whole video of being petty / scrolling / failing. The third clause
+is always a "Locked In" variant. Examples:
 
-"Can koala lock in without app? Yes. Should koala have to? Nope.
-Lockin Club. Link in bio. This koala approved."
+- *Koala Not Scrolling. Koala Tactical. Koala Locked In.*
+- *Koala Not Doomed. Koala Reclaimed. Koala Time-Rich.*
+- *Koala Not Cooked. Koala Submitted On Time. Koala Locked In.*
+
+### Reluctant-endorser energy (still applies)
+
+Koala did not want grind app. Koala had system. System was vibes.
+Koala stopped fighting phone, made phone earn its keep, and now has
+receipts. Even at beats 6 and 8, Koala stays in character — no hype,
+no feature dump, no "link in bio" energy beyond the single CTA line.
 
 ### Hard rules
 
-- Never use shame, never call the audience "addicted," never promise
-  transformation.
-- Never structure the script as a list of problems Lockin Club fixes.
-  That is an ad. We are not making ads — we are making stories that
-  end at an app.
-- Never name Lockin Club more than twice in a single script. Once is
-  often enough.
+- Never shame the *viewer*. The hook describes the cycle ("Stop
+  scrolling"), not the viewer's character ("you're an addict").
+- Never explain Lockin Club's features mid-script. No earn rate, no
+  sleep-time auto-lock, no leaderboard. The audience needs to know
+  there is a *system*, not how the system works.
+- Never name Lockin Club more than twice (beat 6 + beat 8).
+- Never break Koala voice for the CTA. Cloud user, deadpan, broken
+  syntax — even when recommending.
+- Lockin Club never appears before beat 6. The first half of the
+  script earns the resolution.
 
-## Reference patterns from `videoinspiration.md`
+## Reference patterns (use inside the arc)
 
-These are the structural moves to imitate. Pick from these, do not
-invent new ones.
+These structural moves fit *inside* the 8-beat arc. Pick from these,
+do not invent new ones.
 
-1. **Topic + "Explained by Koala"** opener. Every script.
-2. **Numbered list** — "Number one… Number two…" — for any list bit.
-3. **"Can / Should" ladder** — "Can koala do this? Yes. Should koala
-   have to? Nope." — to land an opt-out punchline.
-4. **"Not X. Y."** reframes — "Koala Not Difficult. Koala High
-   Maintenance Quality." Steal the rhythm.
-5. **Self-summary triplet closer** — three short clauses that label
-   Koala in a flattering way after a whole video of being petty.
-   ("Koala Not Stubborn. Koala Tactical. Koala Geographically Gifted.")
-6. **Pre-empt the haters** — drop a "If you're a koala who enjoys
-   doing this, pop off. But this Koala opts out." line near the end.
-7. **Treat trivial behavior as policy** — "risk management,"
-   "tactical orientation," "decision laboratory," "financial analysis."
-   Trivial verb + impressive noun.
+1. **In-medias-res hook (beat 1)** — open mid-scene. *"It is 11 PM.
+   Assignment due tomorrow."* Better than easing in.
+2. **Numbered list inside beat 3** — *"Number one. Cold plunge —
+   phone in towel. Number two. Run — phone tracking. Number three.
+   Read club — phone won."* The failed-habits beat is the natural
+   home for a numbered list.
+3. **"Not X. Y." reframes (beat 5 and the closer)** — *"Phone not
+   enemy. Phone is weapon."* Steal the rhythm.
+4. **"Can / Should" ladder (optional, beat 7)** — *"Can Koala lock
+   in alone? Yes. Should Koala have to? Nope."* — lands the
+   transformation as it arrives.
+5. **Self-summary triplet (fixed: beat 8 closer)** — three short
+   labels, third always "Locked In."
+6. **Pre-empt the haters (optional, before the CTA)** — *"If you're
+   a koala who enjoys raw-dogging discipline, pop off. But this Koala
+   opts out."*
+7. **Trivial verb + impressive noun** — "tactical orientation,"
+   "decision laboratory," "risk management." Sprinkle, do not lean
+   on.
+8. **"Explained by Koala" tail tag (optional, beat 1)** — may follow
+   the hook punch as a brand tag. Never the opener itself.

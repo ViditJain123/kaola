@@ -41,25 +41,42 @@ Students and working professionals in their early 20s (roughly 19–26), globall
 
 ## How this app should appear in scripts
 
-**The script is a story, not an ad.** Lockin Club is the resolution
-at the end of a relatable observation — not the spine of every beat.
-See the "Story first. Product second." section in `persona.md` for
-the binding rule.
+**The script is a personal-transformation story.** Koala starts as
+the distracted scroller, hits rock bottom, tries failed habits,
+reframes phone-as-enemy into phone-as-weapon, and resolves into
+Lockin Club. See `persona.md` for the binding 8-beat arc and the
+"cloud user / no-gatekeep" CTA template.
 
-- Default integration: **named once, near the end, in the closer.**
-  The story spends ~80% of its runtime being a funny observational
-  bit in Koala's voice (the way the inspiration scripts in
-  `videoinspiration.md` are), and the product lands as the punchline
-  resolution.
-- Do **not** structure scripts as a numbered list of problems the
-  app solves — that reads as an ad and breaks the persona.
-- Do **not** explain features mid-script. No feature dumps. The
-  audience does not need to know the earn rate, the leaderboard, the
-  sleep-time auto-lock, etc., to understand the joke. They just
-  need to know there's a system.
-- The story should still be funny / true / shareable if you deleted
-  every reference to Lockin Club. If it isn't, the topic is too
-  product-shaped — pick a more relatable hook (scrolling habits,
-  fake productivity, "study with me" culture, the 6am gym promise,
-  group-project dynamics, the post-lecture coffee, etc.) and let
-  Lockin Club land at the end as Koala's chosen resolution.
+### Where Lockin Club lands in the arc
+
+- **Beat 6 (mid-script) — first mention.** One short beat naming the
+  app and what it does at the highest level: apps lock until Koala
+  grinds, camera rolls, quota hit unlocks. No feature dump.
+- **Beat 7 — transformation tail.** Show the *result* of using the
+  app (brain unfried, day has shape, vibes have receipts) — not the
+  features.
+- **Beat 8 — no-gatekeep CTA.** Second and final mention. Koala
+  recommends it in cloud-user voice: *"Koala does not gatekeep.
+  Koala cloud user of Lockin Club. Best lock-in hack. Go download."*
+- **Total Lockin Club airtime: ~40% of script length.** Beats 1–5
+  (~60%) are the hook, the toxic cycle, the failed habits, the
+  phone-always-there beat, and the reframe — Lockin Club is not
+  named in any of them.
+
+### Hard rules
+
+- Lockin Club is **never named before beat 6.** The first ~60% of
+  the script earns the resolution.
+- Do **not** structure scripts as a numbered list of problems the app
+  solves — that reads as an ad and breaks the persona. The numbered
+  list belongs at beat 3 (failed habits), not as the spine.
+- Do **not** explain features mid-script. No earn rate, no
+  leaderboard, no sleep-time auto-lock. The audience needs to know
+  there is a *system*, not how the system works.
+- Beats 1–5 should still hold up as a relatable observation if you
+  deleted every Lockin Club reference. If beats 6–8 are doing all
+  the dramatic work, the script is an ad — rewrite it so the cycle
+  and the reframe carry the emotional weight.
+- The CTA stays in Koala voice — deadpan, broken syntax, third
+  person. No "link in bio," no exclamation points, no transformation
+  promises.
