@@ -236,37 +236,68 @@ an emoji.
 
 ## 9. Script Narrative Arc (input contract)
 
-Every narration that drives this video follows the 8-beat arc defined
-in `persona.md` and `app.md`:
+Every narration that drives this video follows the 5-beat arc
+defined in `persona.md` and `app.md`:
 
-1. **Hook** — fear / regret / angry-ASMR direct address (~3s)
-2. **Toxic cycle** — Koala's scrolling story
-3. **Failed habits** — numbered list of soft fixes that didn't stick
-4. **Phone always there** — bed, bathroom, brain
-5. **Reframe** — phone is a weapon, not the enemy
-6. **Lockin Club enters (mid-script — never before this beat)**
-7. **Transformation** — receipts, brain unfried, day has shape
-8. **No-gatekeep CTA + self-summary triplet closer**
+1. **Hook (~3s)** — a question + *"explained by koalas."* Stat
+   ("60 days a year"), conspiratorial ("hey… pssst…"), or
+   contrarian ("why does willpower never work?").
+2. **Toxic cycle / shared problem** — koala's own scrolling story
+   ("scroll. sleep. repeat.") or the viewer's, in 1–3 sentences.
+3. **Reframe (the pivot)** — your brain isn't addicted to your
+   phone, it's addicted to dopamine. Willpower can't beat
+   chemistry. The em-dash usually lives here.
+4. **The fix** — build one off-screen habit (running, reading,
+   meditation, fishing). Film yourself doing it. Timelapse it.
+   Closes on a quotable two-sentence line ("same loop. better
+   source.").
+5. **CTA (lockin club enters — never before this beat)** — the
+   fixed line: *"koala doesn't gatekeep, koala use lockin club
+   to track his productivity using timelapses."* Optionally
+   preceded by a one-line "koala happy" payoff.
 
 **Visual implications for this Remotion spec:**
 
-- The Lockin Club wordmark, lock icon, or any product asset **must
-  not render before beat 6.** Earlier beats are about the cycle, the
-  failure, and the reframe — the product is not the topic.
-- The hook (beat 1) gets the loudest typography of the video. It is
-  the natural place for a single big-text prop ("STOP SCROLLING",
-  "7 YEARS", "11 PM") to fill the middle zone.
-- Mascot pose swaps (§4) cluster at the emotional pivots: the hook
-  (beat 1), the reframe (beat 5), the resolution (beat 6), and the
-  closer triplet (beat 8 — one pose per label).
-- The numbered list at beat 3 is the natural place for a fast prop
-  cadence — one prop per failed habit (planner, run, journal, cold
-  plunge, etc.).
+- The lockin club wordmark, lock icon, app screenshot, or any
+  product asset **must not render before beat 5.** Beats 1–4 are
+  about the cycle, the dopamine reframe, and the fix — the
+  product is not the topic.
+- The hook (beat 1) gets the loudest typography of the video. It
+  is the natural place for a single big-text prop ("60 DAYS",
+  "4 HRS/DAY", "PSSST…") to fill the middle zone.
+- Mascot pose swaps (§4) cluster at the emotional pivots: the
+  hook (beat 1), the reframe (beat 3 — `koala_action` "aha"),
+  the fix (beat 4 — `koala_happy` while filming/working), and
+  the optional payoff line (`koala_happy` again before CTA).
+- Beat 4 is the natural place for a fast prop cadence — one prop
+  per concrete habit (running shoes, book, meditation cushion,
+  fishing rod) — followed by a phone/timelapse-frame prop on
+  "film yourself doing it. timelapse it."
+- Stacked-period cadences ("cheap. fast. infinite." /
+  "scroll. sleep. repeat.") are the natural place for rapid
+  three-beat prop swaps timed to each period.
 
-See `persona.md` for full voice + arc guidance and `app.md` for the
-"cloud user / no-gatekeep" CTA template.
+See `persona.md` for full voice + arc guidance and `app.md` for
+the fixed CTA framing (lockin club as a *timelapse productivity
+tracker* in-script, never as a phone-locker).
 
 ---
+
+## 10. End card (brand outro — every video)
+
+Every video ends with a **fixed brand end card** that is independent of the script and the §2 three-zone layout.
+
+- **Asset:** `assets/image.png` — the Lockin Club App Store listing screenshot (see `asset-map.md`). Reserved for this purpose; never used mid-video as a regular prop.
+- **Duration:** **30 frames (1.0 s @ 30 fps)**, appended after the final scripted scene.
+- **Layout:** **fills the entire 576 × 1024 canvas** — overrides §2's three-zone rule for these frames only. No mascot, no props, no subtitle safe area; the end card *is* the whole frame.
+- **Rendering:** `<Img src={staticFile('assets/image.png')} />` sized to cover the canvas. Use `object-cover` if it crops cleanly; switch to `object-contain` over a white background (`#FFFFFF`) if cropping would clip the app title or rating row.
+- **Audio:** silent by default. The narration mp3 should already be over by the time the end card lands; if it bleeds under, that's fine — do not add an outro sting.
+- **Motion:** instant cut in, hold, instant cut out. No fade, no pop, no breathing oscillation. This is a logo lockup, not a beat.
+
+**Composition implications (Root.tsx):**
+- Total composition duration = `Math.ceil(narration_duration * fps) + 30`.
+- Append a final `<Series.Sequence durationInFrames={30}><EndCard /></Series.Sequence>` after the last scripted scene.
+- The end card is **NOT a "scene"** in the planning sense — it has no captions window, no `beatType`, no scene-agent dispatch. The orchestrator wires it directly as a small `EndCard.tsx` component (or inline) and copies `assets/image.png` into `public/assets/image.png` during scaffolding.
 
 ## 11. Quality Checklist
 
@@ -284,5 +315,7 @@ See `persona.md` for full voice + arc guidance and `app.md` for the
 - [ ] Emoji is reserved for abstract / iconic beats; concrete nouns use stock images instead
 - [ ] No slow animations — prop transitions ≤ 5 frames; mascot pop ≤ 6 frames
 - [ ] Audio is tight — no leading silence, no trailing dead air
-- [ ] Total duration falls between 40 and 70 seconds
+- [ ] Total duration falls between 40 and 70 seconds (script body — the 1 s end card is appended on top)
 - [ ] Final export is 576 × 1024 @ 30 fps
+- [ ] Last 30 frames (1 s) are the Lockin Club end card — `assets/image.png` full-canvas, no zones, no mascot, no props (see §10)
+- [ ] Total composition duration = `ceil(narration_duration * fps) + 30`

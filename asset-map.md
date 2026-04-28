@@ -30,6 +30,12 @@ serve specific zones:
 If you find yourself picking emoji for a concrete noun, stop and try
 the stock-image MCP first.
 
+## Brand end card (outro — every video, fixed)
+
+| Filename | What's in the image |
+|----------|---------------------|
+| `image.png` | App Store listing for Lockin Club — black "LOCKIN.club" app icon, "Lockin Club / Timelapse to be productive" title, 5.0 rating, 4+ Years, Productivity category. **Reserved as the outro end card.** Renders full-canvas (576 × 1024, ignoring the §2 three-zone layout) for ~1s (30 frames @ 30fps) at the very end of every video. Do NOT use mid-video as a regular prop. See `main.md §10`. |
+
 ## Mascot library (bottom zone — swap often)
 
 ### Core poses (Photoroom cutouts)
