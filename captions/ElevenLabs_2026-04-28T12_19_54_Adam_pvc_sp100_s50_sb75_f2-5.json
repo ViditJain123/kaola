@@ -1,0 +1,668 @@
+{
+  "audio_file": "/Users/viditjain/Desktop/kaola/audio/ElevenLabs_2026-04-28T12_19_54_Adam_pvc_sp100_s50_sb75_f2-5.mp3",
+  "duration": 60.0,
+  "language": "en",
+  "text": "Why do you unlock your phone 144 times a day? Explained by Koala. That's once every six minutes. You're not deciding. Your hand is. By lunch, you've already pulled the phone out 60 times for nothing. Koala used to do the same. Unlock. Scroll. Sleep. Unlock again. Felt like the phone was running Koala, not the other way around. Then Koala figured it out. Your brain isn't addicted to your phone. It's addicted to dopamine. The unlock is a reflex. is chasing chemistry. So don't fight the reflex. Give it somewhere else to land. Running. Drawing. Lifting. Anything that ends in a result you can see. Then film yourself doing it. Time lapse it. Same reach. Better payoff. Koala doesn't gatekeep. Koala used lock-in club to track his productivity using time lapses.",
+  "words": [
+    {
+      "word": "Why",
+      "start": 0.0,
+      "end": 0.21
+    },
+    {
+      "word": "do",
+      "start": 0.21,
+      "end": 0.35
+    },
+    {
+      "word": "you",
+      "start": 0.35,
+      "end": 0.56
+    },
+    {
+      "word": "unlock",
+      "start": 0.56,
+      "end": 1.06
+    },
+    {
+      "word": "your",
+      "start": 1.06,
+      "end": 1.28
+    },
+    {
+      "word": "phone",
+      "start": 1.28,
+      "end": 1.64
+    },
+    {
+      "word": "144",
+      "start": 1.64,
+      "end": 2.29
+    },
+    {
+      "word": "times",
+      "start": 2.29,
+      "end": 2.67
+    },
+    {
+      "word": "a",
+      "start": 2.67,
+      "end": 2.72
+    },
+    {
+      "word": "day?",
+      "start": 2.72,
+      "end": 3.14
+    },
+    {
+      "word": "Explained",
+      "start": 3.14,
+      "end": 3.79
+    },
+    {
+      "word": "by",
+      "start": 3.79,
+      "end": 3.94
+    },
+    {
+      "word": "Koala.",
+      "start": 3.94,
+      "end": 4.5
+    },
+    {
+      "word": "That's",
+      "start": 4.5,
+      "end": 4.91
+    },
+    {
+      "word": "once",
+      "start": 4.91,
+      "end": 5.32
+    },
+    {
+      "word": "every",
+      "start": 5.32,
+      "end": 5.57
+    },
+    {
+      "word": "six",
+      "start": 5.57,
+      "end": 5.78
+    },
+    {
+      "word": "minutes.",
+      "start": 5.78,
+      "end": 6.49
+    },
+    {
+      "word": "You're",
+      "start": 6.49,
+      "end": 6.95
+    },
+    {
+      "word": "not",
+      "start": 6.95,
+      "end": 7.12
+    },
+    {
+      "word": "deciding.",
+      "start": 7.12,
+      "end": 8.19
+    },
+    {
+      "word": "Your",
+      "start": 8.19,
+      "end": 8.2
+    },
+    {
+      "word": "hand",
+      "start": 8.2,
+      "end": 8.49
+    },
+    {
+      "word": "is.",
+      "start": 8.49,
+      "end": 8.84
+    },
+    {
+      "word": "By",
+      "start": 8.84,
+      "end": 8.97
+    },
+    {
+      "word": "lunch,",
+      "start": 8.97,
+      "end": 9.52
+    },
+    {
+      "word": "you've",
+      "start": 9.52,
+      "end": 9.9
+    },
+    {
+      "word": "already",
+      "start": 9.9,
+      "end": 10.4
+    },
+    {
+      "word": "pulled",
+      "start": 10.4,
+      "end": 10.83
+    },
+    {
+      "word": "the",
+      "start": 10.83,
+      "end": 11.04
+    },
+    {
+      "word": "phone",
+      "start": 11.04,
+      "end": 11.4
+    },
+    {
+      "word": "out",
+      "start": 11.4,
+      "end": 11.64
+    },
+    {
+      "word": "60",
+      "start": 11.64,
+      "end": 12.04
+    },
+    {
+      "word": "times",
+      "start": 12.04,
+      "end": 12.4
+    },
+    {
+      "word": "for",
+      "start": 12.4,
+      "end": 12.61
+    },
+    {
+      "word": "nothing.",
+      "start": 12.61,
+      "end": 13.32
+    },
+    {
+      "word": "Koala",
+      "start": 13.32,
+      "end": 13.78
+    },
+    {
+      "word": "used",
+      "start": 13.78,
+      "end": 13.96
+    },
+    {
+      "word": "to",
+      "start": 13.96,
+      "end": 14.14
+    },
+    {
+      "word": "do",
+      "start": 14.14,
+      "end": 14.24
+    },
+    {
+      "word": "the",
+      "start": 14.24,
+      "end": 14.45
+    },
+    {
+      "word": "same.",
+      "start": 14.45,
+      "end": 14.95
+    },
+    {
+      "word": "Unlock.",
+      "start": 14.95,
+      "end": 15.59
+    },
+    {
+      "word": "Scroll.",
+      "start": 15.59,
+      "end": 16.44
+    },
+    {
+      "word": "Sleep.",
+      "start": 16.44,
+      "end": 16.8
+    },
+    {
+      "word": "Unlock",
+      "start": 16.8,
+      "end": 17.31
+    },
+    {
+      "word": "again.",
+      "start": 17.31,
+      "end": 17.8
+    },
+    {
+      "word": "Felt",
+      "start": 17.8,
+      "end": 18.08
+    },
+    {
+      "word": "like",
+      "start": 18.08,
+      "end": 18.58
+    },
+    {
+      "word": "the",
+      "start": 18.58,
+      "end": 18.6
+    },
+    {
+      "word": "phone",
+      "start": 18.6,
+      "end": 18.95
+    },
+    {
+      "word": "was",
+      "start": 18.95,
+      "end": 19.15
+    },
+    {
+      "word": "running",
+      "start": 19.15,
+      "end": 19.65
+    },
+    {
+      "word": "Koala,",
+      "start": 19.65,
+      "end": 20.14
+    },
+    {
+      "word": "not",
+      "start": 20.14,
+      "end": 20.35
+    },
+    {
+      "word": "the",
+      "start": 20.35,
+      "end": 20.56
+    },
+    {
+      "word": "other",
+      "start": 20.56,
+      "end": 20.92
+    },
+    {
+      "word": "way",
+      "start": 20.92,
+      "end": 21.13
+    },
+    {
+      "word": "around.",
+      "start": 21.13,
+      "end": 21.98
+    },
+    {
+      "word": "Then",
+      "start": 21.98,
+      "end": 22.06
+    },
+    {
+      "word": "Koala",
+      "start": 22.06,
+      "end": 22.41
+    },
+    {
+      "word": "figured",
+      "start": 22.41,
+      "end": 22.91
+    },
+    {
+      "word": "it",
+      "start": 22.91,
+      "end": 23.05
+    },
+    {
+      "word": "out.",
+      "start": 23.05,
+      "end": 23.7
+    },
+    {
+      "word": "Your",
+      "start": 23.7,
+      "end": 23.76
+    },
+    {
+      "word": "brain",
+      "start": 23.76,
+      "end": 24.12
+    },
+    {
+      "word": "isn't",
+      "start": 24.12,
+      "end": 24.54
+    },
+    {
+      "word": "addicted",
+      "start": 24.54,
+      "end": 25.05
+    },
+    {
+      "word": "to",
+      "start": 25.05,
+      "end": 25.19
+    },
+    {
+      "word": "your",
+      "start": 25.19,
+      "end": 25.48
+    },
+    {
+      "word": "phone.",
+      "start": 25.48,
+      "end": 26.05
+    },
+    {
+      "word": "It's",
+      "start": 26.05,
+      "end": 26.33
+    },
+    {
+      "word": "addicted",
+      "start": 26.33,
+      "end": 26.91
+    },
+    {
+      "word": "to",
+      "start": 26.91,
+      "end": 27.05
+    },
+    {
+      "word": "dopamine.",
+      "start": 27.05,
+      "end": 27.84
+    },
+    {
+      "word": "The",
+      "start": 27.84,
+      "end": 28.14
+    },
+    {
+      "word": "unlock",
+      "start": 28.14,
+      "end": 28.48
+    },
+    {
+      "word": "is",
+      "start": 28.48,
+      "end": 28.62
+    },
+    {
+      "word": "a",
+      "start": 28.62,
+      "end": 28.72
+    },
+    {
+      "word": "reflex.",
+      "start": 28.72,
+      "end": 30.0
+    },
+    {
+      "word": "is",
+      "start": 30.0,
+      "end": 30.2
+    },
+    {
+      "word": "chasing",
+      "start": 30.2,
+      "end": 30.92
+    },
+    {
+      "word": "chemistry.",
+      "start": 30.92,
+      "end": 32.22
+    },
+    {
+      "word": "So",
+      "start": 32.22,
+      "end": 32.35
+    },
+    {
+      "word": "don't",
+      "start": 32.35,
+      "end": 32.86
+    },
+    {
+      "word": "fight",
+      "start": 32.86,
+      "end": 33.62
+    },
+    {
+      "word": "the",
+      "start": 33.62,
+      "end": 33.68
+    },
+    {
+      "word": "reflex.",
+      "start": 33.68,
+      "end": 34.6
+    },
+    {
+      "word": "Give",
+      "start": 34.6,
+      "end": 34.97
+    },
+    {
+      "word": "it",
+      "start": 34.97,
+      "end": 35.32
+    },
+    {
+      "word": "somewhere",
+      "start": 35.32,
+      "end": 36.14
+    },
+    {
+      "word": "else",
+      "start": 36.14,
+      "end": 36.55
+    },
+    {
+      "word": "to",
+      "start": 36.55,
+      "end": 36.95
+    },
+    {
+      "word": "land.",
+      "start": 36.95,
+      "end": 37.46
+    },
+    {
+      "word": "Running.",
+      "start": 37.46,
+      "end": 38.48
+    },
+    {
+      "word": "Drawing.",
+      "start": 38.48,
+      "end": 39.52
+    },
+    {
+      "word": "Lifting.",
+      "start": 39.52,
+      "end": 40.51
+    },
+    {
+      "word": "Anything",
+      "start": 40.51,
+      "end": 41.33
+    },
+    {
+      "word": "that",
+      "start": 41.33,
+      "end": 41.74
+    },
+    {
+      "word": "ends",
+      "start": 41.74,
+      "end": 42.15
+    },
+    {
+      "word": "in",
+      "start": 42.15,
+      "end": 42.38
+    },
+    {
+      "word": "a",
+      "start": 42.38,
+      "end": 42.45
+    },
+    {
+      "word": "result",
+      "start": 42.45,
+      "end": 43.14
+    },
+    {
+      "word": "you",
+      "start": 43.14,
+      "end": 43.38
+    },
+    {
+      "word": "can",
+      "start": 43.38,
+      "end": 43.78
+    },
+    {
+      "word": "see.",
+      "start": 43.78,
+      "end": 44.3
+    },
+    {
+      "word": "Then",
+      "start": 44.3,
+      "end": 44.72
+    },
+    {
+      "word": "film",
+      "start": 44.72,
+      "end": 45.11
+    },
+    {
+      "word": "yourself",
+      "start": 45.11,
+      "end": 45.94
+    },
+    {
+      "word": "doing",
+      "start": 45.94,
+      "end": 46.46
+    },
+    {
+      "word": "it.",
+      "start": 46.46,
+      "end": 46.95
+    },
+    {
+      "word": "Time",
+      "start": 46.95,
+      "end": 47.36
+    },
+    {
+      "word": "lapse",
+      "start": 47.36,
+      "end": 47.86
+    },
+    {
+      "word": "it.",
+      "start": 47.86,
+      "end": 48.6
+    },
+    {
+      "word": "Same",
+      "start": 48.6,
+      "end": 48.78
+    },
+    {
+      "word": "reach.",
+      "start": 48.78,
+      "end": 49.59
+    },
+    {
+      "word": "Better",
+      "start": 49.59,
+      "end": 50.21
+    },
+    {
+      "word": "payoff.",
+      "start": 50.21,
+      "end": 51.13
+    },
+    {
+      "word": "Koala",
+      "start": 51.13,
+      "end": 51.63
+    },
+    {
+      "word": "doesn't",
+      "start": 51.63,
+      "end": 52.34
+    },
+    {
+      "word": "gatekeep.",
+      "start": 52.34,
+      "end": 53.66
+    },
+    {
+      "word": "Koala",
+      "start": 53.66,
+      "end": 53.96
+    },
+    {
+      "word": "used",
+      "start": 53.96,
+      "end": 54.36
+    },
+    {
+      "word": "lock-in",
+      "start": 54.36,
+      "end": 55.08
+    },
+    {
+      "word": "club",
+      "start": 55.08,
+      "end": 55.49
+    },
+    {
+      "word": "to",
+      "start": 55.49,
+      "end": 55.97
+    },
+    {
+      "word": "track",
+      "start": 55.97,
+      "end": 56.2
+    },
+    {
+      "word": "his",
+      "start": 56.2,
+      "end": 56.51
+    },
+    {
+      "word": "productivity",
+      "start": 56.51,
+      "end": 57.75
+    },
+    {
+      "word": "using",
+      "start": 57.75,
+      "end": 58.27
+    },
+    {
+      "word": "time",
+      "start": 58.27,
+      "end": 58.74
+    },
+    {
+      "word": "lapses.",
+      "start": 58.74,
+      "end": 60.0
+    }
+  ]
+}
