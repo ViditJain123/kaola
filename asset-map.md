@@ -32,6 +32,8 @@ the stock-image MCP first.
 
 ## Mascot library (bottom zone — swap often)
 
+### Core poses (Photoroom cutouts)
+
 | Filename | What's in the image |
 |----------|---------------------|
 | `Koala_happy-Photoroom.png` | Kaola standing on hind legs with both arms raised high, paws open in a celebratory "yay!" pose. Red bow on head. |
@@ -42,6 +44,39 @@ the stock-image MCP first.
 | `koala_scrolls_laughs-Photoroom.png` | Kaola holding a phone with both paws, mouth wide open laughing/cackling at whatever's on screen. Red bow. |
 | `koala_sleeps-Photoroom.png` | Kaola curled up asleep on a tree branch, eyes closed, peaceful. Red bow on head. |
 | `koala_thinking-Photoroom.png` | Kaola standing upright with arms crossed over chest, calm thoughtful expression — "let me think about this" pose. Red bow. |
+
+### Costumed / activity poses (OpenArt JPGs, white background)
+
+| Filename | What's in the image |
+|----------|---------------------|
+| `openart-image_-No8N6ur_1777371211237_raw.png` | Koala dressed up as a skier. |
+| `openart-image_0vQT21-e_1777371112432_raw.png` | Koala doing yoga (tree pose) on a yoga mat. |
+| `openart-image_1bazGzVm_1777371232052_raw.png` | Koala dressed up as an astronaut, throwing a peace sign. |
+| `openart-image_3A2Om9Ng_1777371070964_raw.png` | Koala crocheting / knitting with a ball of yarn. |
+| `openart-image_4HTdPYFs_1777371071704_raw.png` | Koala playing an acoustic guitar. |
+| `openart-image_4lcqDuSX_1777371247723_raw.png` | Koala playing chess, thinking hard (close-up). |
+| `openart-image_4uEgeDWf_1777371200944_raw.png` | Koala meditating in lotus pose. |
+| `openart-image_5CFB09Ws_1777371046655_raw.png` | Koala looking skeptical / unimpressed, arms crossed. |
+| `openart-image_6PgsMmwr_1777371149060_raw.png` | Koala dressed up like a superhero. |
+| `openart-image_8nipNDpG_1777371155014_raw.png` | Koala as a chef, plating a fine-dining dish. |
+| `openart-image_A1O2aKjP_1777370943645_raw.png` | Koala dancing / leaping in a "ta-da!" pose. |
+| `openart-image_A4ASdjAd_1777371249695_raw.png` | Koala holding a giant mug of cappuccino. |
+| `openart-image_Aoy833oX_1777371015455_raw.png` | Group of four koalas posing together (squad shot). |
+| `openart-image_D6zLKdEl_1777371178376_raw.png` | Koala graduating, holding a diploma (close-up). |
+| `openart-image_QsC8dXP__1777371157833_raw.png` | Koala sleeping in a hammock. |
+| `openart-image_T2_7eNAV_1777371185766_raw.png` | Koala graduating, holding a diploma (full body). |
+| `openart-image_XtQw7WhW_1777371147860_raw.png` | Koala reading a book with nerd glasses. |
+| `openart-image_YoM8drFx_1777371189274_raw.png` | Koala as a chef, holding a saucepan and wooden spoon. |
+| `openart-image_a-6BIPGv_1777371232837_raw.png` | Koala riding a bicycle. |
+| `openart-image_bayj-vf8_1777371237308_raw.png` | Koala holding a yellow umbrella with both paws. |
+| `openart-image_cEj736D5_1777371183789_raw.png` | Koala holding a yellow umbrella with one paw (Mary Poppins style). |
+| `openart-image_jPcqKM6Y_1777371173938_raw.png` | Koala sipping a cappuccino. |
+| `openart-image_kUkulfH-_1777371133777_raw.png` | Koala working on a laptop. |
+| `openart-image_oa1fyJgD_1777371145157_raw.png` | Koala dressed as a professor, holding a chalkboard with "E=mc²". |
+| `openart-image_pc-d6YhH_1777371037689_raw.png` | Koala crying, paws on face with a tear. |
+| `openart-image_ufzZuwMW_1777371176086_raw.png` | Koala on vacation — sunglasses, beach towel, tropical cocktail. |
+| `openart-image_uuk4Tgzq_1777371237034_raw.png` | Koala playing chess, thinking hard (full board). |
+| `openart-image_yTW2WySk_1777371191532_raw.png` | Koala dressed up as a doctor, finger raised. |
 
 ## Middle-zone props & footage
 
