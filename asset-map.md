@@ -45,10 +45,22 @@ the stock-image MCP first.
 | `koala_sleeps-Photoroom.png` | Kaola curled up asleep on a tree branch, eyes closed, peaceful. Red bow on head. |
 | `koala_thinking-Photoroom.png` | Kaola standing upright with arms crossed over chest, calm thoughtful expression — "let me think about this" pose. Red bow. |
 
-### Costumed / activity poses (OpenArt JPGs, white background)
+### Costumed / activity poses (Photoroom cutouts)
 
 | Filename | What's in the image |
 |----------|---------------------|
+| `Gemini_Generated_Image_2rlnrm2rlnrm2rln-Photoroom.png` | Koala dressed as a gardener — straw sun hat, holding a small terracotta pot of purple flowers in one paw and a metal garden trowel in the other. |
+| `Gemini_Generated_Image_8mg6cg8mg6cg8mg6-Photoroom.png` | Koala writing on a parchment scroll with a feather quill, mid-signature. Red bow on head. |
+| `Gemini_Generated_Image_eil66geil66geil6-Photoroom.png` | Koala dressed as a businessman in a sharp three-piece pinstripe suit with red bowtie, carrying a brown leather briefcase. |
+| `Gemini_Generated_Image_kkz4r7kkz4r7kkz4-Photoroom.png` | Koala as a photographer, holding up a vintage retro film camera with both paws to line up a shot. Red bow on head. |
+| `Gemini_Generated_Image_ocd4hvocd4hvocd4-Photoroom.png` | Koala reading a folded newspaper with the "KOALA TIMES" masthead, held open with both paws. Red bow on head. |
+| `Gemini_Generated_Image_oprmvhoprmvhoprm-Photoroom.png` | Koala dressed as a DJ — large over-ear headphones, paws working a turntable / DJ mixer. Red bow on head. |
+| `Gemini_Generated_Image_p07di9p07di9p07d-Photoroom.png` | Koala holding a long roasting stick with a golden-toasted marshmallow on the end — campfire / s'mores pose. Red bow on head. |
+| `Gemini_Generated_Image_rfjzifrfjzifrfjz-Photoroom.png` | Koala dressed as a pirate — tricorn hat with feather, eyepatch, navy coat with brass buttons, cutlass on belt, paws clasped at chest. |
+| `Gemini_Generated_Image_tk7h0ltk7h0ltk7h-Photoroom.png` | Koala dressed as Sherlock Holmes — deerstalker cap, tan trench coat, peering through a magnifying glass held up to one eye. |
+| `Gemini_Generated_Image_v1aghyv1aghyv1ag-Photoroom.png` | Koala holding a fishing rod upright with both paws; open tackle box full of colorful lures at its feet. Red bow on head. |
+| `Gemini_Generated_Image_xnlizvxnlizvxnli-Photoroom.png` | Koala dressed as a biker — aviator sunglasses, brown leather jacket, red bowtie, riding a chrome-and-black motorcycle. |
+| `Gemini_Generated_Image_xq6ukaxq6ukaxq6u-Photoroom.png` | Koala as a baker in a pink gingham apron, rolling out cookie dough with a wooden rolling pin; cookie cutter and tray of finished cookies on the counter. Red bow on head. |
 | `openart-image_-No8N6ur_1777371211237_raw.png` | Koala dressed up as a skier. |
 | `openart-image_0vQT21-e_1777371112432_raw.png` | Koala doing yoga (tree pose) on a yoga mat. |
 | `openart-image_1bazGzVm_1777371232052_raw.png` | Koala dressed up as an astronaut, throwing a peace sign. |
